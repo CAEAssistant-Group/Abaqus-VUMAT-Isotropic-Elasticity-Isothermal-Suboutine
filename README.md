@@ -8,3 +8,7 @@ The case study, depicted in the accompanying figure, involves a 3D anisotropic i
 Additionally, a free PDF providing an in-depth explanation of the UMAT subroutine and related workshops is also available and comes highly recommended.
 
 ![Screenshot 2025-01-26 110406](https://github.com/user-attachments/assets/2d9ad201-72de-4575-ad5f-60b5500d7c85)
+
+We also have a free GitHub project on ductile damage analysis of Aluminum, which can be downloaded for free at the link below:
+
+https://github.com/CAEAssistant-Group/Abaqus-Aluminum-Bending-Ductile-Damage-3D
